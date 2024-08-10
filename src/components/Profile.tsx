@@ -1,5 +1,3 @@
-import React from "react";
-
 const Profile = () => {
   return (
     <section id="about">
@@ -8,11 +6,11 @@ const Profile = () => {
       // src="/src/assets/profile-img.jpg"
       ></img>
       <h1 className="text-5xl">I'm Xiu Min</h1>
-      <p className="text-2xl font-opensans">
-        Full Stack Software Engineer based in Singapore.
+      <p className="font-opensans">
+        Full Stack Software Engineer based in sunny Singapore.
       </p>
-      <button className="main-btn">Talk with me</button>
-      <button className="sec-btn">See my work</button>
+      <span className="i-uil-linkedin text-3xl"></span>
+      <span className="i-mdi-github text-3xl"></span>
     </section>
   );
 };

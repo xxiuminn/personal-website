@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
+:root {
   font-family: "Playfair Display";
-  background-color: rgb(255, 248, 240);
+  background-color: rgb(255, 249, 238);
 }
 
 @layer components {
