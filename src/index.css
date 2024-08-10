@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  font-family: "Playfair Display";
+  background-color: rgb(255, 248, 240);
+}
+
+@layer components {
+  .main-btn,
+  .sec-btn {
+    background-color: black;
+    border-radius: 10rem;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+  }
+  .sec-btn {
+    background-color: transparent;
+    color: black;
+    border: solid;
+    border-width: 0.1em;
+  }
+}
