@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 :root {
-  font-family: "Playfair Display";
-  background-color: rgb(255, 249, 238);
+  font-family: "PT Serif";
+  background-color: white;
+  font-weight: 400;
 }
 
 @layer components {

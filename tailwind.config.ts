@@ -4,10 +4,17 @@ import { iconsPlugin, getIconCollections } from "@egoist/tailwindcss-icons";
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    fontFamily: {
-      opensans: ["Open Sans"],
+    extend: {
+      fontFamily: {
+        ptserif: ["PT Serif"],
+        worksans: ["Work Sans"],
+      },
+      fontWeight: {
+        light: "300",
+        normal: "400",
+        medium: "500",
+      },
     },
-    extend: {},
   },
   plugins: [
     iconsPlugin({
