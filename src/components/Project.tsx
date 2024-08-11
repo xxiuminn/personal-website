@@ -31,7 +31,7 @@ const Project = () => {
             "AWS EC2",
             "Bootstrap",
           ].map((skill) => (
-            <li className="bg-stone-800 px-3 inline-flex justify-center align-middle rounded-xl mr-1 text-white">
+            <li className="bg-stone-800 bg-opacity-80 px-3 inline-flex justify-center align-middle rounded-xl mr-1 text-white">
               {skill}
             </li>
           ))}
@@ -74,7 +74,7 @@ const Project = () => {
             "Express",
             "Node",
           ].map((skill) => (
-            <li className="bg-stone-800 px-3 inline-flex justify-center align-middle rounded-xl mr-1 text-white">
+            <li className="bg-stone-800 bg-opacity-80 px-3 inline-flex justify-center align-middle rounded-xl mr-1 text-white">
               {skill}
             </li>
           ))}
@@ -106,7 +106,7 @@ const Project = () => {
             "Airtable",
             "REST APIs",
           ].map((skill) => (
-            <li className="bg-stone-800 px-3 inline-flex justify-center align-middle rounded-xl mr-1 text-white">
+            <li className="bg-stone-800 bg-opacity-80 px-3 inline-flex justify-center align-middle rounded-xl mr-1 text-white">
               {skill}
             </li>
           ))}
@@ -134,7 +134,7 @@ const Project = () => {
         </p>
         <ul className="font-worksans py-2">
           {["Vanilla JavaScript", "CSS3", "HTML5"].map((skill) => (
-            <li className="bg-stone-800 px-3 inline-flex justify-center align-middle rounded-xl mr-1 text-white">
+            <li className="bg-stone-800 bg-opacity-80 px-3 inline-flex justify-center align-middle rounded-xl mr-1 text-white">
               {skill}
             </li>
           ))}
