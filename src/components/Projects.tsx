@@ -3,7 +3,7 @@ import Project from "./Project";
 const Projects = () => {
   return (
     <main>
-      <h2 className="text-3xl">Projects</h2>
+      <h2 className="text-3xl lg:pt-10">Past Works</h2>
       <Project />
     </main>
   );
