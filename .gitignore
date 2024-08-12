@@ -120,7 +120,7 @@ yarn-debug.log*
 .obsidian/
 
 # Ignore vite distribution
-dist/
+# dist/
 
 .idea/
 .vscode/
