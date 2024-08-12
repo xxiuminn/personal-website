@@ -1,5 +1,3 @@
-import React from "react";
-
 const Profile = () => {
   return (
     <div id="about" className="lg:sticky lg:top-0 lg:h-screen pt-10">
