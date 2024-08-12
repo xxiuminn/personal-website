@@ -95,7 +95,6 @@ const Project = () => {
       </div>
 
       <div className="rounded-xl bg-black shadow-md my-4 py-4 px-6 transition ease-in-out delay-100 hover:shadow-gray-700">
-        <img></img>
         <h3 className="text-xl font-worksans py-1 text-white">
           Flights Search Engine
         </h3>
@@ -130,7 +129,6 @@ const Project = () => {
       </div>
 
       <div className="rounded-xl bg-black shadow-md my-4 py-4 px-6 transition ease-in-out delay-100 hover:shadow-gray-700">
-        <img></img>
         <h3 className="text-xl font-worksans py-1 text-white">
           Doodle Jump Game
         </h3>
