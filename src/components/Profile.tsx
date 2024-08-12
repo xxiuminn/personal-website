@@ -23,21 +23,24 @@ const Profile = () => {
         href="https://github.com/xxiuminn"
       ></a>
 
-      <h2 className="text-2xl font-light py-4">About me.</h2>
+      <h2 className="text-2xl font-light py-4">About me in 20 seconds.</h2>
       <p className="font-worksans font-light pb-4">
         <ul className="list-disc list-inside">
           <li>
-            Started out as a performance marketer, where I spent my days
-            obsessing over every detail of the digital ads I crafted and their
-            ROIs. So when I'm building an app, you can bet I'm laser focused on
-            nailing that customer experience.
+            Started out as a performance marketer, where I got hooked on
+            understanding consumer needs and finding clever ways to capture
+            attention and boost ROI. Now, when I build an app, I make sure it
+            not only looks good but also tackles real user pain points and
+            delivers an experience that stands out.
           </li>
           <li>
-            Oh, and did I mention I built a profitable e-Commerce business and
-            hit six figures by 26? But, like all great stories, my interest
-            fizzled out (business mistake #1 - but that's a tale for another
-            time). Thankfully, my retired parents are now running the show while
-            I've moved on to my next adventure.
+            Experienced working in the fintech, digi-bank and government
+            industries.
+          </li>
+          <li>
+            Built a profitable e-Commerce business, reaching six figures by the
+            age of 26. Thankfully, my retired parents are now running the show
+            while I've moved on to my next adventure.
           </li>
         </ul>
       </p>
