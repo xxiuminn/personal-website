@@ -5,7 +5,7 @@ const Project = () => {
         <h3 className="text-xl font-worksans py-1 text-white">
           Chores Scheduler
         </h3>
-        <img src="src/assets/calendar.png" className="py-2"></img>
+        <img src="/assets/calendar.png" className="py-2"></img>
         <p className="font-worksans font-light py-1 text-white">
           Designed with families in mind, this full PERN stack app simplifies
           scheduling and managing household tasks. Imagine combining Google
@@ -98,7 +98,7 @@ const Project = () => {
         <h3 className="text-xl font-worksans py-1 text-white">
           Flights Search Engine
         </h3>
-        <img src="src/assets/flights.png" className="py-2"></img>
+        <img src="/assets/flights.png" className="py-2"></img>
         <p className="font-worksans font-light py-1 text-white">
           Whipped up a flight search engine that hunts down the best prices from
           various airlines so you can save and snag the cheapest deal for your
@@ -132,7 +132,7 @@ const Project = () => {
         <h3 className="text-xl font-worksans py-1 text-white">
           Doodle Jump Game
         </h3>
-        <img src="src/assets/doodle-jump.png" className="py-2"></img>
+        <img src="/assets/doodle-jump.png" className="py-2"></img>
         <p className="font-worksans font-light py-1 text-white">
           My very first coding project, a doodle jump inspired platformer game,
           with full jump control.
